@@ -1,1 +1,1 @@
-# namaste-go
+# Learn-go
